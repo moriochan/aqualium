@@ -1,0 +1,35 @@
+header {
+    width:100%;
+    margin:0;
+    padding-top: 1px;
+    color:#FFFFFF;
+    font-family:Arial, sans-serif;
+    line-height: 30px;
+    background: #000000;
+} 
+
+#can {
+    width:1250px;
+    height:800px;
+    position:static;
+    top:3%;
+    left:3%;
+    margin:0;
+    margin-left:2px;
+    margin-top:-18px;
+    background:#FEFEFF;
+}
+
+body {
+    margin:0;
+}
+
+footer {
+    width:100%;
+    margin:0;
+    padding:0;
+    color:#FFFFFF;
+    font-family:Arial, sans-serif;
+    line-height: 100px;
+    background: #000000;
+} 
